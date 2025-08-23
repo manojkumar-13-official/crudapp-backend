@@ -1,0 +1,5 @@
+com\example\backend_crudapp\repository\StudentRepo.class
+com\example\backend_crudapp\BackendCrudappApplication.class
+com\example\backend_crudapp\service\StudentService.class
+com\example\backend_crudapp\controller\StudentController.class
+com\example\backend_crudapp\model\Student.class
